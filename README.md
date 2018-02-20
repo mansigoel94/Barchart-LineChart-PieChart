@@ -1,5 +1,6 @@
-# Mp-Chart-Bar-Line-and-Pie-Day-12
-## fangwei716/30-days-of-react-native
-### Day 12 Challenge in Kotlin
+# BarChart LineChart and PieChart
+## Day 12 Challenge in Kotlin
+
+Simple app demonstrating basic use of three charts(Bar, Line and Pie) in MP-chart library (https://github.com/PhilJay/MPAndroidChart).
 
 ![Optional Text](../master/day12.gif)
